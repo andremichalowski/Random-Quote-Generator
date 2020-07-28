@@ -5,7 +5,7 @@
 [x] :    d. styled components (yarn add styled-components / npm install --save styled-components)
 [x] :    b. axios (yarn add axios / npm install axios)
 [x] :    c. react-router-dom (npm install --save react-router-dom)
-[x] : 3.) Class Components structure/tree
+[] : 3.) Class Components structure/tree
 [] : 4.) Button with onClick/onChange events
 [] : 5.) Handlers
 [] : 6.) Map statement

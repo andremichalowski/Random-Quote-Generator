@@ -1,3 +1,17 @@
+[x] : 1.) Wrapping the document?/App?
+[x] : 2.) Instalation packages:
+[x] :    b. Create React App (npx create-react-app my-app)
+[x] :    c. npm/yarn (install yarn / install npm?)
+[x] :    d. styled components (yarn add styled-components / npm install --save styled-components)
+[x] :    b. axios (yarn add axios / npm install axios)
+[x] :    c. react-router-dom (npm install --save react-router-dom)
+[x] : 3.) Class Components structure/tree
+[] : 4.) Button with onClick/onChange events
+[] : 5.) Handlers
+[] : 6.) Map statement
+[] : 7.) Routing
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
